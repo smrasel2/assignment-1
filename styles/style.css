@@ -32,6 +32,7 @@ header{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    margin-top: 26px;
 
 }
 .writings-part h1{
@@ -39,6 +40,7 @@ header{
 font-weight: 800;
 margin-left: 221px;
 margin-right: 221px;
+margin-top: 44px; 
 }
 
 .writings-part p{
@@ -53,7 +55,7 @@ margin-right: 221px;
 
 
 .btn-cont button{
-    margin-left: 616px;
+    margin-left: 700px;
     margin-right: 616px;
     margin-top: 32px;
     margin-bottom: 44px;
