@@ -106,7 +106,7 @@ margin-bottom: 24px;
 }
 .group-container{
     width: 946px;
-    height: 1234px;
+    height: 900px;
    
     margin: 0 auto;
 
@@ -276,6 +276,167 @@ padding: 12px 20px;
 
 }
 
-
-
 /* why web dev end */
+
+/* my insparation start */
+
+.my-ins-container{
+    width: 1000px;
+    height: 500px;
+    
+    margin: 0 auto;
+}
+.ins-tit{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.ins-tit h1{
+    color: rgb(13, 19, 33);
+    font-size: 32px;
+    font-weight: 800;
+    margin-bottom: 24px;
+
+}
+.ins-tit p{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 48px;
+}
+
+.video{
+    display: flex;
+    justify-content: center;
+}
+
+.video iframe{
+    border-radius: 16px;
+    
+}
+
+/* my insparation end */
+
+
+/* current target start */
+.current-title{
+    width: 800px;
+    height: 100px;
+   
+    
+    margin: 0 auto;
+
+    margin-top: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+
+.current-title h1{
+    font-size: 32px;
+font-weight: 800;
+color: rgb(13, 19, 33);
+}
+
+
+.current-title p{
+    font-size: 16px;
+    font-weight: 400;
+    color: rgb(13, 19, 33);
+}
+
+
+
+.box-cont{
+    width: 1140px;
+    height: 300px;
+    
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.htm{
+   width: 360px;
+   height: 300px;
+   
+   border-radius: 16px;
+
+background: rgba(255, 76, 30, 0.05);
+}
+
+.htm img{
+    margin-top: 20px;
+    margin-bottom: 28px;
+}
+
+.htm p{
+    margin-bottom: 12px;
+}
+
+.htm a{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+font-weight: 700;
+}
+
+.cs{
+    width: 360px;
+    height: 300px;
+    
+    border-radius: 16px;
+
+background: rgba(0, 76, 232, 0.05);
+}
+
+.cs p{
+    margin-bottom: 12px;
+}
+
+
+.cs img{
+    margin-top: 20px;
+    margin-bottom: 28px;
+}
+.cs a{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+font-weight: 700;
+}
+
+.javascri{
+    width: 360px;
+    height: 300px;
+   
+    border-radius: 16px;
+
+background: rgba(255, 223, 0, 0.05);
+    
+}
+
+.javascri p{
+    margin-bottom: 12px;
+}
+
+.javascri a{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+font-weight: 700;
+}
+.javascri img{
+    margin-top: 20px;
+    margin-bottom: 28px;
+    margin-left: 10px;
+}
+
+
+/* current target end */
+
+
+/* in need support start */
+
+
+/* in need support start */
