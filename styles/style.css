@@ -68,3 +68,214 @@ margin-top: 44px;
     border-radius: 8px;
 }
 /* heading part end */
+
+
+/* why web dev start */
+
+.why-webdev-section{
+    
+    
+    margin: 0 auto;
+    margin-top: 74px;
+}
+
+
+.web-dev-tit{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 80px;
+}
+.web-dev-tit h1{
+    font-size: 32px;
+font-weight: 800;
+margin-bottom: 24px;
+}
+.web-dev-tit p{
+    font-size: 16px;
+    font-weight: 400;
+    color: rgb(13, 19, 33);
+    margin-bottom: 48px;
+}
+
+.spacing{
+    display: flex;
+    flex-direction: column;
+    align-items: center
+}
+.group-container{
+    width: 946px;
+    height: 1234px;
+   
+    margin: 0 auto;
+
+}
+
+ .group-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+ }
+
+.group-oni{
+    width: 850px;
+    height: 240px;
+   
+    margin-bottom: 32px;
+    display: flex;
+    
+}
+
+.left-oni{
+    width: 50%;
+    height: 240px;
+    
+
+}
+.left-oni h1{
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 16px;
+    color: rgba(13, 19, 33, 0.7);
+}
+.left-oni p{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+     font-weight: 400;
+     margin-bottom: 32px;
+}
+
+.left-oni a{
+    border: 1px solid rgb(13, 19, 33);
+    opacity: 0.7;
+
+}
+.left-oni  a{
+    border: 1px solid rgb(13, 19, 33);
+    font-size: 20px;
+font-weight: 600;
+color: rgb(13, 19, 33);
+text-decoration: none;
+padding: 12px 20px;
+
+
+}
+
+
+
+
+
+.right-oni{
+    width: 50%;
+    height: 240px;
+    
+    margin-left: 107px;
+
+}
+.group-seci{
+    width: 850px;
+    height: 240px;
+   
+    margin-bottom: 32px;
+    display: flex;
+}
+
+.right-seci h1{
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 16px;
+    color: rgba(13, 19, 33, 0.7);
+}
+.right-seci p{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+     font-weight: 400;
+     margin-bottom: 32px;
+}
+
+.right-seci a{
+    border: 1px solid rgb(13, 19, 33);
+    opacity: 0.7;
+
+}
+.right-seci  a{
+    border: 1px solid rgb(13, 19, 33);
+    font-size: 20px;
+font-weight: 600;
+color: rgb(13, 19, 33);
+text-decoration: none;
+padding: 12px 20px;
+
+
+}
+
+
+.left-seci{
+    width: 50%;
+    height: 240px;
+    
+    
+}
+.right-seci{
+    width: 50%;
+    height: 240px;
+    
+}
+
+.group-thari{
+    width: 850px;
+    height: 240px;
+   
+    margin-bottom: 32px;
+    display: flex;
+}
+
+.left-thari h1{
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 16px;
+    color: rgba(13, 19, 33, 0.7);
+}
+.left-thari p{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+     font-weight: 400;
+     margin-bottom: 32px;
+}
+
+.left-thari a{
+    border: 1px solid rgb(13, 19, 33);
+    opacity: 0.7;
+
+}
+.left-thari  a{
+    border: 1px solid rgb(13, 19, 33);
+    font-size: 20px;
+font-weight: 600;
+color: rgb(13, 19, 33);
+text-decoration: none;
+padding: 12px 20px;
+
+
+}
+
+
+.left-thari{
+    width: 50%;
+    height: 240px;
+    
+
+}
+.right-thari{
+    width: 50%;
+    height: 240px;
+   
+    margin-left: 158px;
+
+}
+
+
+
+/* why web dev end */
